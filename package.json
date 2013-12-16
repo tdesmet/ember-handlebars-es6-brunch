@@ -1,0 +1,12 @@
+{
+  "name": "ember-handlebars-es6-brunch",
+  "version": "1.7.1",
+  "description": "Compiles handlebars template for ember using es6 modules.",
+  "author": "Tom De Smet",
+  "homepage": "https://github.com/tdesmet/ember-handlebars-es6-brunch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tdesmet/ember-handlebars-es6-brunch.git"
+  },
+  "main": "./lib/index"
+}
